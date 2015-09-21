@@ -1,2 +1,2 @@
-# mariaminkin.gihub.io
-Maria Minkin website source code 
+http://www.mariaminkin.com website source code
+
